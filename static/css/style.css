@@ -107,10 +107,7 @@ body {
 
 @media screen and (max-width: 767px) {
     .generator-container {
-        width: 385px;
+        width: 340px;
         height: 360px;
-    }
-    #advice-random-btn {
-        
     }
 }
